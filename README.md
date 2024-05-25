@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Medhat</h1>
-<h3 align="center">flutter developer from Egpyt</h3>
+<h3 align="center">flutter developer from Egypt</h3>
 
 <p align="right"> <img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" alt="medhatsaleh123" /> </p>
 
